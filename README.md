@@ -24,15 +24,28 @@
 
 **CIRCUIT DIAGRAM:**
 
+<img width="1224" height="762" alt="image" src="https://github.com/user-attachments/assets/c98e1477-05ad-4d59-9e1a-51dbec793c31" />
+
+
+![c92908c8-3669-4013-b2be-9ca6ec470aed](https://github.com/user-attachments/assets/31f6f674-9e83-40b4-abc4-cb34b29dafdc)
 
 
 
 
 
+**THEORETICAL CALCULATION:**
+
+![95e00183-0934-4874-89d8-664391cb0380](https://github.com/user-attachments/assets/264b5040-924d-4bd6-9302-366a1ad75af2)
 
 
+**OBSERVATION TABLE:**
 
 
+![58cac7d0-5b79-4065-b251-d88194ab97df](https://github.com/user-attachments/assets/bbf565dd-40c0-498f-94a0-706dd6657725)
+
+**MARK SPLIT-UP:**
+
+![2166e6a7-206c-46a3-a5b6-ef41efd56f36](https://github.com/user-attachments/assets/6716bbac-0ae0-4768-999d-91afd85fe9a7)
 
 
 **PROCEDURE:**
